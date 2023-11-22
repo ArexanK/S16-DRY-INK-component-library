@@ -10,16 +10,7 @@ Opdracht: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 In deze Readme is alle informatie te vinden voor de website die wij gaan maken aan de hand van de component library. 
 
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
@@ -58,6 +49,18 @@ COMMUNICATIE MIDDELEN :
 * Team Canvas
 * Microsoft Teams
 * Calls
+
+
+## Creating a project
+
+If you're seeing this, you've probably already done this step. Congrats!
+```bash
+# create a new project in the current directory
+npm create svelte@latest
+
+# create a new project in my-app
+npm create svelte@latest my-app
+```
 
 
 ## Developing
